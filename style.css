@@ -527,4 +527,63 @@ h1{
     #consoleimage{
         height: 100px;
     }
+    #gtavname{
+        position: relative;
+        top: 170px;
+        right: 10px;
+    }
+    #assasianscreedname{
+        padding-top: 180px;
+    }
+    #codname{
+        padding-top: 180px;
+    }
+    #counterstrikename{
+        padding-top: 180px;
+    }
+    #forzaname{
+        padding-top: 170px;
+    }
+    #appexlegendsname{
+        position: relative;
+        top: 160px;
+        right: 20px;
+    }
+    #gtasaname{
+        position: relative;
+        top: 160px;
+        right: 20px;
+    }
+    #playstationname{
+        padding-top: 180px;
+    }
+    #xboxname{
+        padding-top: 180px;
+    }
+    #nitendoname{
+        padding-top: 155px;
+    }
+    #dreamcastname{
+        padding-top: 175px;
+    }
+    #gamecubename{
+        padding-top: 180px;
+    }
+    #laptopname{
+        padding-top: 180px;
+    }
+    #keyboardname{
+        padding-top: 180px;
+    }
+    #mousename{
+        padding-top: 180px;
+    }
+    #headphonename{
+        padding-top: 180px;
+    }
+    #followus{
+        position: relative;
+        bottom: 140px;
+        right: 15px;
+    }
 }
