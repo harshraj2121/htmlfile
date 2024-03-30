@@ -381,10 +381,12 @@ h1{
     background-image: url(game\ cube.jpg);
     background-size: contain;
     background-repeat: no-repeat;
+    display: none;
 }
 
 #gamecubename{
     padding-top: 380px;
+    display: none;
 }
 
 /* consoles list */
