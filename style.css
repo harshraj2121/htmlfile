@@ -500,7 +500,7 @@ h1{
 /* media queries */
 
 
-@media(max-width: 450px){
+@media(min-width: 450px){
     #logo{
         height: 10px;
         width: 10px;
