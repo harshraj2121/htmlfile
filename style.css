@@ -29,6 +29,7 @@
 .navbar{
     background-color: black;
     height: 80px;
+    width: 100%;
     display: flex;
     justify-content: space-around;
     align-items: center;
